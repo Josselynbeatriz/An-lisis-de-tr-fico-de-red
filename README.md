@@ -9,6 +9,16 @@ Mi tarea es analizar la situación y determinar qué protocolo de red se vio afe
 
 
 
+<!--
+ ```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+--!>
+
 
 
 <!--
